@@ -1,1 +1,2 @@
-# TestCase_ShopLover.com_RegistrationPage
+# TestCase of [ShopLover.com](https://shoplover.com/)
+
