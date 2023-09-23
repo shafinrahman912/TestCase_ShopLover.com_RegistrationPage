@@ -9,5 +9,5 @@
 <img src="https://github.com/shafinrahman912/TestCase_ShopLover.com_RegistrationPage/blob/main/TestMetrics.png" alt="critical" width="900" height="500"/>
 
 ## Mind Map
-<img src="https://github.com/shafinrahman912/TestCase_ShopLover.com_RegistrationPage/assets/83553368/a217a57b-594b-4737-98a8-a5d177310b21" alt="critical" width="1200" height="800"/>
+<img src="https://github.com/shafinrahman912/TestCase_ShopLover.com_RegistrationPage/assets/83553368/a217a57b-594b-4737-98a8-a5d177310b21" alt="critical" width="1600" height="1400"/>
 
